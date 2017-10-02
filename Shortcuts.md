@@ -2,11 +2,11 @@
 
 Those are the shortcuts I currently use in my workflow. I might have forgotten some but I'll try to collect them all over time. Not all of these are going to be working out-of-the-box. I'll add documentation how to set them up eventually.
 
-## Home (Mac) 
+## Home (Mac)
 
 ### OS
 
-| Shortcut | Action | 
+| Shortcut | Action |
 |:---------|:-------|
 |`Command + Space`| System Wide Poly Search / Start Application
 |`Command + Tab`| Switch to next application
@@ -19,7 +19,7 @@ Those are the shortcuts I currently use in my workflow. I might have forgotten s
 
 *Tool: SizeUp (http://www.irradiatedsoftware.com/sizeup/)*
 
-| Shortcut | Action | 
+| Shortcut | Action |
 |:---------|:-------|
 |`Shift + Command + left/right`| Move window to left/right screen |
 |`Control + Option + Command + M`| Set window size to full screen |
@@ -28,7 +28,7 @@ Those are the shortcuts I currently use in my workflow. I might have forgotten s
 
 ### Text / Editing
 
-| Shortcut | Action | 
+| Shortcut | Action |
 |:---------|:-------|
 |`Option + left/right`| Move cursor to previous / next word |
 |`Command + left/right`| Move cursor to beginning / end of line |
@@ -36,7 +36,7 @@ Those are the shortcuts I currently use in my workflow. I might have forgotten s
 
 ### Terminal
 
-| Shortcut | Action | 
+| Shortcut | Action |
 |:---------|:-------|
 |*`Control + U`*| Clear curent line |
 |`Shift + Command + Enter`| Toggle full screen for current tab |
@@ -46,18 +46,38 @@ Those are the shortcuts I currently use in my workflow. I might have forgotten s
 
 
 ## Work (Linux; Ubuntu)
+
 ### OS
+
+
 ### Window Management
 
 *Tool: i3 (https://i3wm.org/)*
 
-| Shortcut | Action | 
+| Shortcut | Action |
 |:---------|:-------|
 |`Win + Enter`| Start a terminal in current pane |
-|`Win + D`| Search and start applications -> quick CLI |
+|`Win + d`| Search and start applications -> quick CLI |
 |`Win + <n>`| Open/Switch to pane number <n> |
 |`Win + Shift + <n>`| Move current window to pane <n>|
-|`Win + S/E`| Switch between split / fullscreen |
+|`Win + s/e`| Switch between split / fullscreen |
+|`Win + left/right/up/down` | Navigate windows |
+|`Win + f` | Display current window in full screen |
+|`Win + v/h` | Prepare new window to split current window vert./hor.|
+|||
 |||
 
+
 ### Text / Editing
+
+### Atom / Editor
+
+| Shortcut | Action |
+|:---------|:-------|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
